@@ -18,4 +18,5 @@ Here include:
 1. Write about how you will remove or what will you do to the outliers,
 2. Write what you will do with the missing values
 
+### Description of the Statistical Modelling and Multivariate Data Analysis    
     
