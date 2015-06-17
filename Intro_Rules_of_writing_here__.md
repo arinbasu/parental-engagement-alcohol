@@ -6,7 +6,7 @@ This way the thesis gets built over time, where we do not lose any scrap of info
 
 When we need to print, we can just download only those sections that we need (there is a page called layout.md where each of these sections get sequentially included or excluded. I shall handle that (unless you are willing to take this task), and we can rapidly create in one stroke of button our Word document, PDF file format, according to the format in which the thesis will get written. Word is good, but incapable of handling the complexity of large theses that we are working on. Watch this for more.
 
-## So, how do we work?
+## So, how do we work and how do I write?
 
 The thesis gets written in chunks of text. Just double click on each "chunk of text" and start writing. Just write. You have simple formatting options. On the top of the text box you get to see links for adding citation (cite), make the text bold (B), or italic (I), add codes (<>), add quotes (the quote mark), and three levels of headings and two different types of making lists (numbered lists and bullet lists), plus adding links. Normally for scholarly writing these selections are sufficient to make our points. Also, we write in paragraphs of ideas and chunks anyway, so keep each "chunk of text" to one idea. You can add figures and you can convert tables to figures and can add them or add the tables directly (as in copy and paste from word, or paste them to excel spreadsheet and then add. I know we often do not use tables here, so this is not an issue for this thesis either. So, just keep writing texts and add figures to the text.
 
@@ -30,4 +30,5 @@ I could go on about the benefits of this system, but I think the best way will b
 So, let's get started. 
 
 ## 
+    
     
