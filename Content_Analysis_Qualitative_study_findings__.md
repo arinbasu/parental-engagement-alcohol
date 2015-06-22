@@ -1,8 +1,13 @@
 ## Content Analysis
 
-Qualitative study findings from Content analysis 
+> I have made some additional comments and remarks directly in this article next to each paragraphs or thoughts. If you ever decide to use this format, you will need to remove these or modify the text. You will see why this format is helpful 
+
+## Qualitative study findings from Content analysis 
 
 This chapter presents the qualitative findings based on the analysis of the focus group interviews conducted with adolescents. The main objectives of the qualitative study was to gain a better understanding of the adolescents’ attitudes, responses and their ideas about the role of parental engagement in relation to adolescents’ alcohol use in urban families in Sri Lanka and develop a questionnaire to use for a cross-sectional survey in Sri Lanka to understand the role of parental engagement styles in relation to adolescents’ intentions of alcohol initiation.
+
+> It helps to start each paragraph as a separate strand of thought.  
+
 According to the literature review, it was noted that research on understanding adolescents and adolescents’ alcohol use, and the relationship between parents and adolescents in South East Asia and Sri Lanka are neglected. Because of that reason questionnaires regarding adolescents’ alcohol use and parental engagement are unavailable in Sri Lankan or South East Asian context. It is surprising, when research in western countries widely recognized adolescence as the most important age group and the future of nations, and have been conducted ample amount of research, why this research area hasn’t been concerned in South East Asian countries. However some studies recognized that it is a significant need to understanding adolescents alcohol behaviour, due to the widespread of illegal liquor products in Sri Lanka (Perera & Torabi, 2009; Samarasinghe, 2006). 
 After reviewing existing literature, I discussed with my supervisors about the unavailability of questionnaires in Sri Lankan context to understand the phenomenon. With the advice of my supervisors I decided to use qualitative method in the first phase of the research to gain insights and information that are unique to Sri Lankan context. 
 In this study, I have focused adolescents’ perspectives with their experiences in the society and their own view regarding their parents’ behaviour in relation to alcohol use. Therefore, I used interview guide about adolescents alcohol use with questions why, where, when and how, alcohol attitudes in Sri Lankan society and the family relationship regarding alcohol. My aim was to analyse the qualitative data to gain insights and information that are unique to Sri Lanka and develop the quantitative survey research instruments. 
@@ -109,4 +114,5 @@ Van Der Vorst, H., Engels, R. C., Dekovic, M., Meeus, W., & Vermulst, A. A. (200
 
 
 
+    
     
