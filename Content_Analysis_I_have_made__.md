@@ -10,19 +10,33 @@ This chapter presents the qualitative findings based on the analysis of the focu
 
 According to the literature review, it was noted that research on understanding adolescents and adolescents’ alcohol use, and the relationship between parents and adolescents in South East Asia and Sri Lanka are neglected. Because of that reason questionnaires regarding adolescents’ alcohol use and parental engagement are unavailable in Sri Lankan or South East Asian context. It is surprising, when research in western countries widely recognized adolescence as the most important age group and the future of nations, and have been conducted ample amount of research, why this research area hasn’t been concerned in South East Asian countries. However some studies recognized that it is a significant need to understanding adolescents alcohol behaviour, due to the widespread of illegal liquor products in Sri Lanka (Perera & Torabi, 2009; Samarasinghe, 2006). 
 After reviewing existing literature, I discussed with my supervisors about the unavailability of questionnaires in Sri Lankan context to understand the phenomenon. With the advice of my supervisors I decided to use qualitative method in the first phase of the research to gain insights and information that are unique to Sri Lankan context. 
-In this study, I have focused adolescents’ perspectives with their experiences in the society and their own view regarding their parents’ behaviour in relation to alcohol use. Therefore, I used interview guide about adolescents alcohol use with questions why, where, when and how, alcohol attitudes in Sri Lankan society and the family relationship regarding alcohol. My aim was to analyse the qualitative data to gain insights and information that are unique to Sri Lanka and develop the quantitative survey research instruments. 
-During my literature review, I had found various theoretical approaches parents engage with their adolescents in western countries. Those studies in western countries recognised the relationship between parental engagement and adolescents’ alcohol use, talking to adolescents about alcohol, establishing family rules, monitoring adolescents when unsupervised and preparing adolescents for peer pressure are important aspects of parental engagement (Harris-McKoy & Cui, 2012; Kao & Carter, 2013; Van Der Vorst, Engels, Dekovic, Meeus, & Vermulst, 2007)
-With the knowledge of western literature, doing focus group interviews, I anticipated that adolescents would describe their experiences and attitudes and their parental engagement in specific components that would be helpful to assist developing questionnaire for cross-sectional survey of my research. According to my literature review, I realized that conducting focus group interviews will generate valuable data with the interaction in focus group:   
+
+In this study, I have focused adolescents’ perspectives with their experiences in the society and their own view regarding their parents’ behaviours in relation to alcohol use. Therefore, I used interview guide about adolescents alcohol use with questions why, where, when and how, alcohol attitudes in Sri Lankan society and the family relationship regarding alcohol. My aim was to analyse the qualitative data to gain insights and information that are unique to Sri Lanka and develop the quantitative survey research instruments. 
+
+During my literature review, I had found various theoretical approaches parents engage with their adolescents in western countries. Those studies in western countries recognised the relationship between parental engagement and adolescents’ alcohol use, talking to adolescents about alcohol, establishing family rules, monitoring adolescents when unsupervised and preparing adolescents for peer pressure are important aspects of parental engagement (Harris-McKoy & Cui, 2012; Kao & Carter, 2013; Van Der Vorst, Engels, Dekovic, Meeus, & Vermulst, 2007) [Need to convert the citations to their formatted references]
+
+With the knowledge of western literature, doing focus group interviews, it was anticipated that adolescents would describe their experiences and attitudes and their parental engagement in specific components that would be helpful to assist developing questionnaire for cross-sectional survey of my research. According to my literature review, I realized that conducting focus group interviews will generate valuable data with the interaction in focus group:   
+
 The interactions occurring in focus groups offer valuable data on the extent of consensus. The interviewer can compare participants’ experience and views and so identify a detailed level of data that may have not been revealed without the interaction found in a group (Kitzinger, 1995, Morgan, 1996). 
 
-At the time, I was first reading of my interview data, I understood that some areas of the interviews have small details. Because, I knew that for some specific questions, most of participants in all four focus groups were silenced. However, interviewer made them to talk and simplified the questions. Therefore, after several times reading I recognized that all the participants have expressed their ideas for the same questions they were silenced before. I was surprised that adolescents are aware about all the dimensions that I was concerning about the topic nevertheless I didn’t expect answers from adolescents.  
+At the time, I was first reading of my interview data, I understood that some areas of the interviews have small details. Because, I knew that for some specific questions, most of participants in all four focus groups were silenced. However, interviewer made them to talk and simplified the questions. Therefore, after several times reading I recognized that all the participants have expressed their ideas for the same questions they were silenced before. I was surprised that adolescents are aware about all the dimensions that I was concerning about the topic nevertheless I didn’t expect answers from adolescents. 
+
 Focus group interview data was analyzed manually to recognize the categories. I used the process of content analysis to identify the key ideas within the data.
+
 (I will discuss content analysis  and why I chosen content analysis and how I did that here with reference)
+
 My initial analysis of the focus group interviews led me to locate 15 categories. Within 15 categories I have recognized pre-determined categories and also some hybrid categories. I have discussed about these two categories in section 4.2 (I will discuss them later and mention the correct section later). For a better understanding of the data I generated three main categories, from 15 initial categories. They are: 
+
 1.	Alcohol and adolescents
 2.	Adolescent-parent relationship in relation to alcohol
 3.	Alcohol and the society 
+
+Need to explain what these main categories indicate. What does the category "Alcohol and Adolescents" for example mean? Why was this a separate category and what would distinguish them from categories two and three?
+
 After generating three main categories I place those recognized 15 categories into 3 main categories and they are now called as sub categories. All three main categories and sub categories are shown below, 
+
+These are better represented in the form of a table rather than a list. 
+
 1.	Alcohol and adolescents
 i.	Adolescents motivation to drink alcohol 
 ii.	How adolescents reach alcohol
@@ -114,6 +128,7 @@ Van Der Vorst, H., Engels, R. C., Dekovic, M., Meeus, W., & Vermulst, A. A. (200
 
 
 
+    
     
     
     
