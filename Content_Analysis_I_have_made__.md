@@ -1,4 +1,4 @@
-## Content Analysis
+## Content Analysis (this all belongs above in chapter 4)
 
 > I have made some additional comments and remarks directly in this article next to each paragraphs or thoughts. If you ever decide to use this format, you will need to remove these or modify the text. You will see why this format is helpful 
 
@@ -128,6 +128,7 @@ Van Der Vorst, H., Engels, R. C., Dekovic, M., Meeus, W., & Vermulst, A. A. (200
 
 
 
+    
     
     
     
