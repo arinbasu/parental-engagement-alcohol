@@ -2,7 +2,7 @@ Intro_Rules_of_writing_here__.md
 chapter01.md
 Chapter_1_Introduction_to_the__.md
 Chapter_2_Review_of_the__.md
-Chapter_4_Steps_of_the__.md
+Chapter_3_Steps_of_the__.md
 Chapter_5_Steps_of_the__.md
 Chapter_6_Results_of_the__.md
 Content_Analysis_I_have_made__.md
