@@ -4,7 +4,7 @@ Chapter_1_Introduction_to_the__.md
 Chapter_2_Review_of_the__.md
 Chapter_3_Methodological_approach_This__.md
 focusgroup.md
-Chapter_5_Steps_of_the__.md
+Chapter_5_Cross_sectional_survey__.md
 Content_Analysis_this_all_belongs__.md
 Chapter_7_Results_of_your__.md
 Chapter_8_Discussion_Discuss_the__.md
