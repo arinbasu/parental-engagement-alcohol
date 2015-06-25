@@ -1,7 +1,7 @@
-# Chapter 2: Review of the Literature
+#  Chapter 2: Review of the Literature
 You have a good outline for this chapter and it is coming along quite well.
 
-  2.1 Introduction  
+ ##  2.1 Introduction  
   2.2 Adolescent behaviour in relation to alcohol
 	 2.2.1 Adolescence and adolescent behavior
 	 2.2.2 Adolescent behavior and alcohol
@@ -16,6 +16,7 @@ You have a good outline for this chapter and it is coming along quite well.
 
 
 
+    
     
     
     
