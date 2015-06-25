@@ -8,6 +8,6 @@ Chapter_5_Cross_sectional_survey__.md
 resultssurvey.md
 discussionchapter.md
 conclusionchapter.md
-Notes_on_Content_Analysis_this__.md
+contentanalysisnotes.md
 Abstract_Chapter_1_Introduction_to__.md
     
