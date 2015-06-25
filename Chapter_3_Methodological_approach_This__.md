@@ -13,7 +13,7 @@ This chapter will explain how you tackled the research, using mixed methods, and
 ## 4.4 Preparation of data
 ## 4.5 Analysis
 ## 4.6 Content analysis - here are your results
-# ## 4.7 Conclusion
+## 4.7 Conclusion
 #     
 #     
 #     
@@ -25,3 +25,4 @@ This chapter will explain how you tackled the research, using mixed methods, and
 #     
 #     
 #     # 
+    
