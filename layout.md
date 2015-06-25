@@ -2,7 +2,6 @@ Intro_Rules_of_writing_here__.md
 abstract.md
 Chapter_1_Introduction_to_the__.md
 Chapter_2_Review_of_the__.md
-2_1_Introduction_2_2__.md
 Chapter_3_Methodological_approach_This__.md
 Chapter_5_Steps_of_the__.md
 Content_Analysis_this_all_belongs__.md
