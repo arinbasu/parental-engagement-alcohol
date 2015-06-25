@@ -1,4 +1,4 @@
-# Chapter 1: Introduction to the Topic  
+Chapter 1: Introduction to the Topic  
 
 Write about the issue about adolescent alcohol consumption, regulations, issues around parental engagement, and build an argument as to why this dissertation is important and what will it add to the knowledge base of what we know. Make sure you include the following:
 
@@ -13,6 +13,7 @@ Write about the Objectives and Hypotheses of this dissertation. This chapter can
 
 
 
+    
     
     
     
