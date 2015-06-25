@@ -2,23 +2,24 @@
 
 Here include:
 
-## Steps of Development of the Instrument: item selection
+# Steps of Development of the Instrument: item selection
 
-## Validation of the Instrument: 
+# Validation of the Instrument: 
 
-### Face Validation
+   Face Validation
 
-### Content Validation
+   Content Validation
 
-### Construct Validation and Confirmatory Factor Analysis
+ Construct Validation and Confirmatory Factor Analysis
 (You should append the results of the Confirmatory Factor Analysis as Figure below this section)
 
-### Description of the Data and steps of Data Cleaning
+# Description of the Data and steps of Data Cleaning
 
 1. Write about how you will remove or what will you do to the outliers,
 2. Write what you will do with the missing values
 
-### Description of the Statistical Modelling and Multivariate Data Analysis    
+# Description of the Statistical Modelling and Multivariate Data Analysis    
+    
     
     
     
