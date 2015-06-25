@@ -9,7 +9,6 @@ resultssurvey.md
 discussionchapter.md
 conclusionchapter.md
 Notes_on_Content_Analysis_this__.md
-Chapter_7_Results_of_your__.md
 Chapter_8_Discussion_Discuss_the__.md
 Abstract_Chapter_1_Introduction_to__1.md
 Abstract_Chapter_1_Introduction_to__.md
