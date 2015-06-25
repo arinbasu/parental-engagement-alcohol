@@ -4,26 +4,16 @@ This chapter will explain how you tackled the research, using mixed methods, and
      
 # Chapter 4  Qualitative research **- methods and findings (around 20 pages)
 
-##  4.1 Introduction
-## 4.2 Implementing the focus group method
-### - selection of participants
-### - recruitment
-### - implemenation of fg interviews
-## 4.3 Interview guide
-## 4.4 Preparation of data
-## 4.5 Analysis
-## 4.6 Content analysis - here are your results
-## 4.7 Conclusion
-#     
-#     
-#     
-#     
-#     
-#     
-#     
-#     
-#     
-#     
-#     # 
+#  4.1 Introduction
+# 4.2 Implementing the focus group method
+## - selection of participants
+## - recruitment
+# 4.3 Interview guide
+# 4.4 Preparation of data
+# 4.5 Analysis
+# 4.6 Content analysis - here are your results
+# 4.7 Conclusion
+ 
+    
     
     
