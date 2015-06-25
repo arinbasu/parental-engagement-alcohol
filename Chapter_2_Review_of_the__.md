@@ -2,9 +2,9 @@
 You have a good outline for this chapter and it is coming along quite well.
 
  ##  2.1 Introduction  
-  2.2 Adolescent behaviour in relation to alcohol
-	 2.2.1 Adolescence and adolescent behavior
-	 2.2.2 Adolescent behavior and alcohol
+ ##  2.2 Adolescent behaviour in relation to alcohol
+	 ### 2.2.1 Adolescence and adolescent behavior
+	 ### 2.2.2 Adolescent behavior and alcohol
   2.3 The importance of parental engagement and adolescence
   2.4 Components of parental engagement
 	 2.4.1 Communication
@@ -16,6 +16,7 @@ You have a good outline for this chapter and it is coming along quite well.
 
 
 
+    
     
     
     
