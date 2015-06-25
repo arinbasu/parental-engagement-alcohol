@@ -1,4 +1,5 @@
-# Chapter 5: Steps of the Survey Research
+# Chapter 5: Cross sectional survey methods
+
 ## Steps of the Development of the instrument: item selection
 ## Validation of the Instrument
 ### Face Validation
@@ -13,6 +14,7 @@
 2. Write what you will do with the missing values
 
 ## Description of the Statistical Modelling and Multivariate Data Analysis    
+    
     
     
     
