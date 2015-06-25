@@ -57,16 +57,16 @@ Chapter 4:  Focus group study: methods and results
 4.3 Conclusion
 	
 Chapter 5:  Cross sectional survey: methods  (where does overall survey design, the sampling, recruitment sections etc fit in here?)
-4.1 Steps of Development of the Instrument: item selection
+5.1 Steps of Development of the Instrument: item selection
       4.2 Validation of the Instrument:
       4.2.1 Face Validation
       4.2.2 Content Validation
-4.2.3 Construct Validation and Confirmatory Factor Analysis
+5.2.3 Construct Validation and Confirmatory Factor Analysis
 (You should append the results of the Confirmatory Factor Analysis as Figure below this section)
-      4.2.4 Description of the Data and steps of Data Cleaning
+      5.2.4 Description of the Data and steps of Data Cleaning
 1. Write about how you will remove or what will you do to the outliers,
 2. Write what you will do with the missing values
-	4.2.5 Description of the Statistical Modelling and Multivariate Data Analysis
+	5.2.5 Description of the Statistical Modelling and Multivariate Data Analysis
 
 
 Chapter 6:  Results of cross sectional survey
@@ -80,4 +80,5 @@ Chapter 7:  Discussion
 
 
 Chapter 8: Conclusion
+    
     
