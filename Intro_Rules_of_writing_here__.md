@@ -1,4 +1,4 @@
- # Intro: Rules of writing here and the rationale for this approach
+Intro: Rules of writing here and the rationale for this approach
 
 This is a large one piece document where I recommend that we keep all our notes on materials and methods, our analysis, and our results. 
 
@@ -16,7 +16,7 @@ Click where you want to insert citation, and then hit the "cite" button. This wi
 
 If you use Endnote, remember to save or export your citations to BibTeX format by choosing the BibTeX style in Endnote. It is easy to do and if you are unsure how to do it, please refer to the help files or google. I can show you when we meet. 
 
-##  What is the advantage of this approach?
+What is the advantage of this approach?
 
 1. You will have a large thesis where everything is written once and we get to check them and make corrections on one document, not in isolated documents. So, less effort on duplicates.
 2. The three of us (or more, if others join the team), can work on different sections simultaneously. So, while Thanua works on her results section, Pauline can check the literature review, and I can check the methods section. Or something similar.
@@ -30,6 +30,7 @@ I could go on about the benefits of this system, but I think the best way will b
 So, let's get started. 
 
 ## 
+    
     
     
     
