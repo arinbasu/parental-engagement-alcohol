@@ -1,19 +1,13 @@
 # Chapter 3:  Methodological approach
 
-This chapter will explain how you tackled the research, using mixed methods, and why. Provide a brief overview of your two methods. See your proposal and use the background papers that you wrote. Explain that you will combine your detailed qualitative methods and results into one chapter (Chapter 4) and separate chapters for your quantitative methods (Chapter 5) an dresults (Chapter 6)     About 10 pages for this chapter
-     
-# Chapter 4  Qualitative research **- methods and findings (around 20 pages)
+This chapter provides an overview of your approach to the research. 
+This chapter sets out the rationale for your methodology (mixed-methods approach) and the relationship between your qualitative and quantitative studies. 
+You need to provide an overview and justification of the specific methods you have chosen (e.g., focus groups and a cross-sectional survey) but do not go into detail about the mechanics of these.
 
-# 4.1 Introduction
-#  4.2 Implementing the focus group method
-        - selection of participants
-        - recruitment
-# 4.3 Interview guide
-# 4.4 Preparation of data
-# 4.5 Analysis
-# 4.6 Content analysis - here are your results
-# 4.7 Conclusion
+You have good material from your proposal and the background papers that you did to start this chapter. What you need first is an OUTLINE
+
  
+    
     
     
     
