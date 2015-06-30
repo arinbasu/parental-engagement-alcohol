@@ -1,4 +1,5 @@
 Intro_Rules_of_writing_here__.md
+howtouse.md
 abstract.md
 Chapter_1_Introduction_to_the__.md
 Chapter_2_Review_of_the__.md
