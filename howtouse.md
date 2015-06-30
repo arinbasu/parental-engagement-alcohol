@@ -19,6 +19,9 @@ Just wanted to write a few essential notes about using Authorea:
 6. Click cite next to the article and Authorea will correctly cite it for you.
 7. Beyond this, there are other ways of citing as well, for instance using an external bibtex file (if you search Google Scholar, you can download a bibtex file for your search records), or you can search directly from Authorea itself (the bibliography management module of Authorea itself needs a manual, there are quite a few features).
 
+## Commenting and Track Changes in Authorea
 
+You do not need track changes in authorea as it maintains a version control that we can check anytime we like. Instead of track changes, you can directly change the text and write over. Commenting is possible at the word level. So, you can select a word through all the way to a phrase and sentence and passages and then click on the "comment" looking icon that will pop up next to it. Use it to comment. 
+  
   
   
