@@ -1,4 +1,3 @@
-Intro_Rules_of_writing_here__.md
 howtouse.md
 abstract.md
 Chapter_1_Introduction_to_the__.md
@@ -11,3 +10,4 @@ discussionchapter.md
 conclusionchapter.md
 contentanalysisnotes.md
     
+  
